@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+main {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+}
